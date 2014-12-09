@@ -1,0 +1,21 @@
+
+"FROST_PROTECTION_ALARM_END" 	="The temperature in %@ is no longer below %@°C.";
+"END_OF_LOAD_TRIP_WARNING"	="Power usage no longer high";
+"DEVICE_ONLINE"	="%@ is back online";
+"AUTO_TEST_STARTED"=	"System Auto Test started";
+"AUTO_TEST_DONE" 	="System Auto Test result - passed: %@ , failed: %@";
+"OPEN_WINDOW_DETECTED"	="Significant drop in temperature detected at %@ %@.";
+"LOAD_TRIP_WARNING"	="%@ : The electricity consumption is very high. Turn off one or more appliances to reduce risk of losing all power.";
+"DEVICE_BATTERY_FAILED"	="%@%@ has run out of battery. Replace the batteries.";
+"FROST_PROTECTION_ALARM"	="The temperature in %@ is below %@°C. Your goods are in danger. Check that outside windows and doors are closed and that your heating installation is running.";
+"HEATING_PERFORMANCE_ALARM"	="Heating performance issue detected in %@. Please ensure that windows are closed and heater not covered.";
+"DEVICE_NOT_RESPONDING"	="%@%@ is not responding, please check the power supply or wireless communication";
+"NEW_OFFPEAK_TARIFF"	="Off-peak period started";
+"NEW_PEAK_TARIFF"	="Peak period started";
+
+"HEATING_PERFORMANCE_ALARM_END"=	"Heating performance issue in %@ solved.";
+"OPEN_WINDOW_END"=	"Temperature setpoint restored at %@ %@.";
+"DHW_LACT_OFF_24H_ALARM"=	"Your hot water tank has been off for at least 24 hours.";
+"DHW_LACT_OFF_24H_ALARM_END"=	"Your hot water tank has been turned on again.";
+"SHEDDING_WARNING"=	"Shedding activated for %@ due to risk of circuit breaker tripping.";
+"SHEDDING_WARNING_END"= "Shedding deactivated for %@.";
