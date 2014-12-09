@@ -1,0 +1,21 @@
+"END_OF_LOAD_TRIP_WARNING"=	"L'utilisation de l'énergie est redevenue normale";
+"DEVICE_ONLINE"=	"%@ est de nouveau en ligne";
+"AUTO_TEST_STARTED"=	"Le test automatique du système a démarré";
+"AUTO_TEST_DONE"= 	"Résultat du test automatique du système - réussite : %@, échec : %@";
+"OPEN_WINDOW_DETECTED"=	"Baisse significative de température détectée sur %@ %@.";
+"LOAD_TRIP_WARNING"=	"%@ : la consommation actuelle est très élevée. Éteignez un ou plusieurs appareils pour réduire le risque de coupure d'alimentation.";
+"DEVICE_BATTERY_FAILED"=	"Les piles du %@%@ sont vides. Remplacez les piles.";
+"FROST_PROTECTION_ALARM"=	"La température dans %@ est inférieure à %@°C. Vos biens sont en danger. Vérifiez que les fenêtres et portes extérieures sont bien fermées et que votre chauffage est en état de marche.";
+"HEATING_PERFORMANCE_ALARM"=	"Problème de performance de chauffage détectée dans %@. Veuillez vous assurer que les fenêtres sont fermées et que les radiateurs ne sont pas couverts.";
+"DEVICE_NOT_RESPONDING"=	"%@%@ ne répond pas. Vérifiez son alimentation ou la communication sans fil";
+"NEW_OFFPEAK_TARIFF"=	"Une période Heures Creuses a commencé";
+"NEW_PEAK_TARIFF"=	"Une période Heures Pleines a commencé";
+
+
+"FROST_PROTECTION_ALARM_END"= 	"The temperature in %@ is no longer below %@°C._fr";
+"HEATING_PERFORMANCE_ALARM_END"=	"Heating performance issue in %@ solved._fr";
+"OPEN_WINDOW_END"=	"Temperature setpoint restored at %@ %@._fr";
+"DHW_LACT_OFF_24H_ALARM"=	"Your hot water tank has been off for at least 24 hours._fr";
+"DHW_LACT_OFF_24H_ALARM_END"=	"Your hot water tank has been turned on again._fr";
+"SHEDDING_WARNING"=	"Shedding activated for %@ due to risk of circuit breaker tripping._fr";
+"SHEDDING_WARNING_END"= "Shedding deactivated for %@._fr";
