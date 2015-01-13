@@ -4,7 +4,7 @@
     xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     id="com.yash.phonegap.plugins.PushPlugin"
-    version="1.0.1">
+    version="1.0.2">
 
   <name>PushPlugin</name>
 	<author>Bob Easterday</author>
@@ -125,7 +125,8 @@
 		<header-file src="src/ios/AppDelegate+notification.h" />
 		<header-file src="src/ios/PushPlugin.h" />
 		<resource-file src='src/ios/locale/fr.lproj' />
-		<resource-file src='src/ios/locale/es.lproj' />
+		<resource-file src='src/ios/locale/en_IN.lproj' />
+		<resource-file src='src/ios/locale/en_US.lproj' />
 		</platform>
 
     <!-- blackberry10 -->
