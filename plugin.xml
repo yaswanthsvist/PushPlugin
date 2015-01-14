@@ -4,7 +4,7 @@
     xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     id="com.yash.phonegap.plugins.PushPlugin"
-    version="1.0.3">
+    version="1.0.4">
 
   <name>PushPlugin</name>
 	<author>Bob Easterday</author>
@@ -59,6 +59,7 @@
 		</config-file>
 
 		<source-file src="src/android/libs/gcm.jar" target-dir="libs/" />
+		<source-file src="src/android/libs/android-support-v4.jar" target-dir="libs/" />
 		<source-file src="src/android/com/plugin/gcm/CordovaGCMBroadcastReceiver.java" target-dir="src/com/plugin/gcm/" />
 		<source-file src="src/android/com/plugin/gcm/GCMIntentService.java" target-dir="src/com/plugin/gcm/" />
 		<source-file src="src/android/com/plugin/gcm/PushHandlerActivity.java" target-dir="src/com/plugin/gcm/" />
